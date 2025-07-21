@@ -14,5 +14,5 @@ nextPage.addEventListener("click",()=>{
 })
 
 function newPage(){
-    window.location.href = "http://127.0.0.1:5502/Musicart/ProdectDetalePage/index.html"
+    window.location.href = "http://127.0.0.1:5502/Musicart/home%20page/index.html"
 }
